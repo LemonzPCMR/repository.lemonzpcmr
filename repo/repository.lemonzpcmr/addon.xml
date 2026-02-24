@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lemonzpcmr" name="LemonzPCMR Repository" version="1.2.1" provider-name="lemonzpcmr">
+<addon id="repository.lemonzpcmr" name="LemonzPCMR Repository" version="1.2.2" provider-name="lemonzpcmr">
     <extension point="xbmc.addon.repository" name="LemonzPCMR Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/LemonzPCMR/repository.lemonzpcmr/master/repo/zips/addons.xml</info>

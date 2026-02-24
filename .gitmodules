@@ -1,12 +1,3 @@
 [submodule "repo/plugin.program.lemonzwizard"]
 	path = repo/plugin.program.lemonzwizard
 	url = https://github.com/LemonzPCMR/plugin.program.lemonzwizard.git
-[submodule "repo/repository.elementumorg"]
-	path = repo/repository.elementumorg
-	url = ../../ElementumOrg/repository.elementumorg.git
-[submodule "repo/dendygh.github.io"]
-	path = repo/dendygh.github.io
-	url = ../../DenDyGH/dendygh.github.io.git
-[submodule "repo/repository.jurialmunkey"]
-	path = repo/repository.jurialmunkey
-	url = ../../jurialmunkey/repository.jurialmunkey.git
