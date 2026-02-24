@@ -10,6 +10,3 @@
 [submodule "repo/repository.jurialmunkey"]
 	path = repo/repository.jurialmunkey
 	url = ../../jurialmunkey/repository.jurialmunkey.git
-[submodule "repo/drinfernoo.github.io"]
-	path = repo/drinfernoo.github.io
-	url = ../../drinfernoo/drinfernoo.github.io.git
